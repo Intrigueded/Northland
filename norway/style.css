@@ -1,0 +1,96 @@
+nav{
+    box-sizing: border-box;
+    text-align: right;
+    display: flex;
+    justify-content: space-around;
+    width: 325px;
+    height: auto;
+    margin-top: 37px;
+    font-family: "Comfortaa", sans-serif;
+}
+
+.head{
+    display: flex;
+    justify-content: space-around;
+}
+
+header{
+    background-color: rgb(241,241,241);
+    max-width: 970px;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover{
+    color: dodgerblue;
+}
+
+body{
+    background-color: rgb(241,241,241);
+    margin: 0;
+}
+
+.peizash h1{
+    color: rgb(241,241,241);
+    position: absolute;
+    margin-left: 340px;
+    margin-top: -380px;
+    font-family: "Comfortaa", sans-serif;
+    font-size:xx-large;
+}
+
+
+.peizash a{
+    box-sizing: border-box;
+    color: black;
+    font-family: "Comfortaa",sans-serif;
+    display: flex;
+    padding: 15px;
+    background-color: gray;
+    color: rgb(241,241,241);
+    border-radius: 20px;
+    margin-left: 560px;
+    margin-top: -300px;
+    position: absolute;
+}
+
+section {
+    padding: 40px 20px;
+    text-align: center;
+    font-family: "Comfortaa",sans-serif;
+    justify-content: center;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    font-family: "Comfortaa",sans-serif;
+}
+
+.odin{
+    width: 325px;
+    height: 325px;
+}
+
+.dva{
+    width: 325px;
+    height: 325px;
+}
+
+.tri{
+    width: 325px;
+    height: 325px;
+}
+
+.ses{
+    display:flex;
+    justify-content: space-around;
+}
+
+.blog {
+    text-align: left;
+}
+
